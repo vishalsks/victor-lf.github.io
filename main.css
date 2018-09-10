@@ -22,6 +22,7 @@ div div {background: #A4CA39; position: relative;}
     background: #fff;
     width: 20px; height: 20px;
     position: absolute; top: 42px;
+    
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius:10px;
